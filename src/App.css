@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+.divbox{
+  border: 1px solid black ;
+  width: 500px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
